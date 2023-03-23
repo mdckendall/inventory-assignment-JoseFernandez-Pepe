@@ -29,7 +29,7 @@ class Main {
         name.add(sc.nextLine());
         System.out.println("Enter the serial number:");
         serialN.add(sc.nextLine());
-        System.out.println("Enter the value in dollars (Whole numbers):");
+        System.out.println("Enter the value in dollars (whole numbers):");
         price.add(sc.nextInt());
       }
       if(selection == 2){
