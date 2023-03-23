@@ -21,7 +21,7 @@ class Main {
       if(selection == 5) programRun = false;
       if(selection == 4){
         for(int i = 0; i < name.size(); i++){
-          System.out.println(name.get(i) + ", " + serialN.get(i) + ", " + price.get(i));
+          System.out.println(name.get(i) + "," + serialN.get(i) + "," + price.get(i));
         }
       }
       if(selection == 1){
